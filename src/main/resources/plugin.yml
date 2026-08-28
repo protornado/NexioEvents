@@ -1,0 +1,4 @@
+name: NexioEvents
+version: 1.0
+main: me.tornado.nexioevents.NexioEvents
+api-version: '1.21'
